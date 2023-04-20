@@ -1,5 +1,5 @@
 # SC1015-Project
-Welcome to our SC1015 Data Science Mini-Project! This project uses the [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) dataset from Kaggle. For a complete walkthrough of the project, refer to the following jupyter notebooks in order form:
+Welcome to our SC1015 Data Science Mini-Project! This project uses the [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) dataset from Kaggle. Here is our presentations [slides](https://www.canva.com/design/DAFdotrY1hA/EVLGTds1KHDa02-J5L70yg/edit?utm_content=DAFdotrY1hA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and video. For a complete walkthrough of the project, refer to the following jupyter notebooks in order form:
 
 1. Exploratory Data Analysis & Data Preparation
 2. Machine Learning 

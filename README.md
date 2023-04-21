@@ -7,7 +7,7 @@ Welcome to our SC1015 Data Science Mini-Project! This project uses the [Heart Di
 
 ## Contributors
 1. @hridayyy: Exploratory Data Analysis, Data preparation, Most important variable for Machine Learning models
-2. Krish: K-Nearest Neighbours, Logistic Regression, Random Forest Classifier, Decision Tree Classifier, Neural Networks
+2. @KrishSaraf: K-Nearest Neighbours, Logistic Regression, Random Forest Classifier, Decision Tree Classifier, Neural Networks
 3. @aravbehl: Neural Networks, Data-Driven Insights, and Recommendations
 
 ## Problem Definition

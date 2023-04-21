@@ -1,7 +1,7 @@
 # SC1015-Project
 Welcome to our SC1015 Data Science Mini-Project! This project uses the [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) dataset from Kaggle. Here is our presentations [slides](https://www.canva.com/design/DAFdotrY1hA/EVLGTds1KHDa02-J5L70yg/edit?utm_content=DAFdotrY1hA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and video. For a complete walkthrough of the project, refer to the following jupyter notebooks in order form:
 
-1. [Exploratory Data Analysis & Data Preparation](https://github.com/hridayyy/SC1015-Project/blob/5c59b1b176e4c7be4988467f2f9e2ca6f54191b0/Exploratory%20Data%20Analysis%20&%20Data%20Preparation.ipynb)
+1. [Exploratory Data Analysis & Data Preparation](https://github.com/hridayyy/SC1015-Project/blob/144d14462991c36629c18833c81e6d4539487f99/Exploratory%20Data%20Analysis%20&%20Data%20Preparation.ipynb)
 2. [Machine Learning](https://github.com/hridayyy/SC1015-Project/blob/af9243a0b76b6bbf4e132099c07528315d8daae7/Machine%20Learning.ipynb) 
 3. [Data-Driven Insights & Recommendations](https://github.com/hridayyy/SC1015-Project/blob/320b7239c1829d4bca412222dd0378a0c8e5e62c/Data-Driven%20Insights%20&%20Recommendations.ipynb)
 

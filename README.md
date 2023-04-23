@@ -3,7 +3,7 @@ Welcome to our SC1015 Data Science Mini-Project! This project uses the [Heart Di
 
 1. [Exploratory Data Analysis & Data Preparation](https://github.com/hridayyy/SC1015-Project/blob/144d14462991c36629c18833c81e6d4539487f99/Exploratory%20Data%20Analysis%20&%20Data%20Preparation.ipynb)
 2. [Machine Learning](https://github.com/hridayyy/SC1015-Project/blob/af9243a0b76b6bbf4e132099c07528315d8daae7/Machine%20Learning.ipynb) 
-3. [Data-Driven Insights & Recommendations](https://github.com/hridayyy/SC1015-Project/blob/320b7239c1829d4bca412222dd0378a0c8e5e62c/Data-Driven%20Insights%20&%20Recommendations.ipynb)
+3. [Data-Driven Insights & Recommendations](https://github.com/hridayyy/SC1015-Project/blob/23f6379d66bb5eeb64caf2ae8670f11d34280af1/Data%20Driven%20Insights%20&%20Recommendations.ipynb)
 
 ## Contributors
 1. @hridayyy: Exploratory Data Analysis, Data preparation, Most important variable for Machine Learning models

@@ -5,11 +5,6 @@ Welcome to our SC1015 Data Science Mini-Project! This project uses the [Heart Di
 2. [Machine Learning](https://github.com/hridayyy/SC1015-Project/blob/af9243a0b76b6bbf4e132099c07528315d8daae7/Machine%20Learning.ipynb) 
 3. [Data-Driven Insights & Recommendations](https://github.com/hridayyy/SC1015-Project/blob/23f6379d66bb5eeb64caf2ae8670f11d34280af1/Data%20Driven%20Insights%20&%20Recommendations.ipynb)
 
-## Contributors
-1. @hridayyy: Exploratory Data Analysis, Data preparation, Most important variable for Machine Learning models
-2. @KrishSaraf: K-Nearest Neighbours, Logistic Regression, Random Forest Classifier, Decision Tree Classifier, Neural Networks
-3. @aravbehl: Neural Networks, Data-Driven Insights, Recommendations, Predictive Website
-
 ## Problem Definition
 - Are we able to predict if a patient will suffer from heart disease in patients based on their medical conditions?
 - Which condition (variable) will be the most important in predicting whether a patient is likely to develop heart disease?
